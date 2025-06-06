@@ -1,6 +1,8 @@
 ## Hello, I'm Martin 
 
-I'm an aspiring cybersecurity professional in the midst of pivoting career paths after 10 years of accumulated experience in marketing and F&B throughout the US and APAC markets.  Currently on track to obtain CompTia Security+ by Aug 2025.
+I'm an aspiring cybersecurity professional in the midst of pivoting career paths after 10 years of accumulated experience in marketing and F&B throughout the US and APAC markets.  
+
+Currently on track to obtain CompTia Security+ by Aug 2025.
 
 ## Certifications
 Google Cybersecurity Professional Certification 
