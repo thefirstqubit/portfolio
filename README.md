@@ -9,7 +9,7 @@ Google Cybersecurity Professional Certification
 C , SQL, Python, 
 
 ## Tools I'm Learning and Have Gained Experience With
-Wireshark, Suricata, Splunk, tcpdump, Kali Linux, VMware Fusion
+Wireshark, Suricata, Splunk, tcpdump, Kali Linux, Python, SQL, VMware Fusion
 
 ## Skills
 
