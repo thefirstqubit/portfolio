@@ -20,7 +20,7 @@ Hobbies and Passions? DJ sets that turn me into an actual wave, visually stunnin
 | SQL                                           | <a href="https://google.com">Labs</a>|
 
 
-## More Tools I'm Learning and Already Gained Some Experience With
+## Tools I'm Learning and Gaining More Experience With
 Wireshark, Suricata, Splunk, tcpdump, Kali Linux, Python, SQL, VMware Fusion
 
 ## Languages I'm Learning & Practicing
