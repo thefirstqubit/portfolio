@@ -5,7 +5,7 @@ I'm an aspiring cybersecurity professional in the midst of pivoting career paths
 Currently on track to obtain CompTia Security+ by Aug 2025.
 
 ## Certifications
-Google Cybersecurity Professional Certification 
+<a href="https://www.credly.com/badges/e39d5a3e-7a19-4261-9ad8-e6dace60e89e/public_url">Google Cybersecurity Professional Certification</a>
 
 ## Skills
 
