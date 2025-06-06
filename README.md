@@ -1,8 +1,10 @@
 ## Hello, I'm Martin 
 
-I'm an aspiring cybersecurity professional in the midst of pivoting career paths after 11 years of accumulated experience in marketing and F&B throughout US and APAC markets.  
+I'm an aspiring cybersecurity professional in the midst of pivoting career paths after 11 years of accumulated experience in marketing and F&B throughout US and APAC markets.
 
-Currently on track to obtain CompTia Security+ by Aug 2025.
+I'm interested in GRC, Security Auditing, and Vulnerability / Threat Management. Looking for internships and entry-level positions. 
+
+Currently on track to obtain CompTia Security+ by Aug 2025. Hobbies and Passions? DJ sets that turn me into an actual wave , visually stunning cinema, poker, deep conversations about tech.  
 
 ## Certifications
 <a href="https://www.credly.com/badges/e39d5a3e-7a19-4261-9ad8-e6dace60e89e/public_url">Google Cybersecurity Professional Certification</a>
