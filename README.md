@@ -11,7 +11,7 @@ Google Cybersecurity Professional Certification
 
 | Skill                                         | Applied Usage        |
 |-----------------------------------------------|----------------------------|
-| Linux CLI                                     | <a href="https://google.com">Labs</a>|
+| Linux CLI                                     | <a href="https://github.com/thefirstqubit/labs/blob/main/suricata/triggering_customrules_on_pcapfile.md">Labs</a>|
 | Incident Response & Reporting: NIST CSF & RMF | <a href="https://github.com/thefirstqubit/labs/tree/main/Incident_Reports_Analysis">Reports</a>|
 | Suricata: Network Analysis                    | <a href="https://github.com/thefirstqubit/labs/tree/main/suricata">Labs</a>|
 | Python Automation for Access Control          | <a href="https://github.com/thefirstqubit/labs/tree/main/python">Labs</a>|
