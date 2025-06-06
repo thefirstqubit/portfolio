@@ -4,7 +4,7 @@ I'm an aspiring cybersecurity professional in the midst of pivoting career paths
 
 Searching for internships and entry-level positions. I'm super interested in GRC, Security Auditing, and Vulnerability / Threat Management. Currently on track to obtain CompTia Security+ by Aug 2025.
 
-Hobbies and Passions? Phenomenal lacrosse highlights, apartment DJ sets that transform me into an actual soundwave, Stanley Kubrick movies, poker, learning and having deep conversations about tech, long distance running with minimal gear.  
+Hobbies and Passions? Apartment DJ sets on Youtube, Stanley Kubrick movies, poker, learning and having deep conversations about tech, long distance running.  
 
 ## Certifications
 <a href="https://www.credly.com/badges/e39d5a3e-7a19-4261-9ad8-e6dace60e89e/public_url">Google Cybersecurity Professional Certification</a>
