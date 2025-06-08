@@ -9,6 +9,14 @@ Hobbies and Passions? Apartment DJ sets on Youtube, Stanley Kubrick movies, poke
 ## Certifications
 <a href="https://www.credly.com/badges/e39d5a3e-7a19-4261-9ad8-e6dace60e89e/public_url">Google Cybersecurity Professional Certification</a>
 
+## Projects
+
+| Project                                       | Project Link        |
+|-----------------------------------------------|----------------------------|
+| Compromised macOS: Trojan R57-2 & APT via Docker Desktop | <a href="https://github.com/thefirstqubit/labs/blob/main/suricata/triggering_customrules_on_pcapfile.md">Labs</a>|
+
+
+
 ## Skills
 
 | Skill                                         | Applied Usage        |
