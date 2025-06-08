@@ -13,7 +13,7 @@ Hobbies and Passions? Apartment DJ sets on Youtube, Stanley Kubrick movies, poke
 
 | Project                                       | Tools/Skills       |
 |-----------------------------------------------|----------------------------|
-|<a href="https://github.com/thefirstqubit/labs/blob/main/suricata/triggering_customrules_on_pcapfile.md"> Compromised macOS: Trojan R57-2 & APT thru Docker Desktop</a> | Linux CLI, clamav, threat detection & analysis, threat remediation, router configs, AI prompting  |
+|<a href="https://github.com/thefirstqubit/labs/blob/main/suricata/triggering_customrules_on_pcapfile.md"> Compromised macOS: Trojan R57-2 & APT thru Docker Desktop files</a> | Linux CLI, clamav, threat detection & analysis, threat remediation, router configs, AI prompting  |
 
 
 
