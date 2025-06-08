@@ -11,9 +11,9 @@ Hobbies and Passions? Apartment DJ sets on Youtube, Stanley Kubrick movies, poke
 
 ## Projects
 
-| Project                                       | Project Link        |
+| Project                                       | Tools/Skills       |
 |-----------------------------------------------|----------------------------|
-| Compromised macOS: Trojan R57-2 & APT via Docker Desktop | <a href="https://github.com/thefirstqubit/labs/blob/main/suricata/triggering_customrules_on_pcapfile.md">Labs</a>|
+|<a href="https://github.com/thefirstqubit/labs/blob/main/suricata/triggering_customrules_on_pcapfile.md"> Compromised macOS: Trojan R57-2 & APT thru Docker Desktop</a> | Linux CLI, clamav, threat detection, router configs  |
 
 
 
@@ -22,14 +22,14 @@ Hobbies and Passions? Apartment DJ sets on Youtube, Stanley Kubrick movies, poke
 | Skill                                         | Applied Usage        |
 |-----------------------------------------------|----------------------------|
 | Linux CLI                                     | <a href="https://github.com/thefirstqubit/labs/blob/main/suricata/triggering_customrules_on_pcapfile.md">Labs</a>|
-| Incident Response & Reporting: NIST CSF & RMF | <a href="https://github.com/thefirstqubit/labs/tree/main/Incident_Reports_Analysis">Reports</a>|
+| Incident Response & Reporting                 | <a href="https://github.com/thefirstqubit/labs/tree/main/Incident_Reports_Analysis">Reports</a>|
 | Suricata: Network Analysis                    | <a href="https://github.com/thefirstqubit/labs/tree/main/suricata">Labs</a>|
 | Python Automation for Access Control          | <a href="https://github.com/thefirstqubit/labs/tree/main/python">Labs</a>|
 | SQL                                           | <a href="https://google.com">Labs</a>|
 
 
-## Tools I'm Learning and Gaining More Experience With
-Wireshark, Suricata, Splunk, tcpdump, Kali Linux, Python, SQL, VMware Fusion
+## Tools & Skills I'm Learning and Gaining More Experience With
+Linux CLI, clamav, nmap, tcpdump, suricata, Wireshark, Splunk, Kali Linux, Python, SQL, VMware Fusion
 
 ## Languages I'm Learning & Practicing
 C , SQL, Python, 
