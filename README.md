@@ -2,7 +2,7 @@
 
 I'm an aspiring cybersecurity professional in the midst of pivoting career paths after 11 years of accumulated experience in marketing and F&B throughout US and APAC markets.
 
-Searching for internships and entry-level positions. I'm super interested in GRC, Security Auditing, and Vulnerability / Threat Management. Currently on track to obtain CompTia Security+ by Aug 2025.
+Searching for internships and entry-level positions. I'm super interested in Security Auditing, IT Controls, and Vulnerability / Threat Detection. Currently on track to obtain CompTia Security+ by Aug 2025.
 
 Hobbies and Passions? Apartment DJ sets on Youtube, Stanley Kubrick movies, poker, learning and having deep conversations about tech, long distance running.  
 
