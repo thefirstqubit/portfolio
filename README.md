@@ -23,7 +23,7 @@ Hobbies and Passions? Rare brain-melting DJ sets, Stanley Kubrick movies, poker,
 | Skill                                         | Applied Usage        |
 |-----------------------------------------------|----------------------------|
 | Linux CLI                                     | <a href="https://github.com/thefirstqubit/labs/blob/main/suricata/triggering_customrules_on_pcapfile.md">Labs</a>|
-| Incident Response & Reporting                 | <a href="https://github.com/thefirstqubit/labs/tree/main/Incident_Reports_Analysis">Reports</a>|
+| Incident Response & Reporting                 | <a href="https://docs.google.com/document/d/1wDaBuVRIQmXg2uPwUFMGU0rKyO-rpt2zUJBy1ySQyKg/edit?tab=t.tjnujqonbsep#heading=h.uuvupnihrgac">Reports</a>|
 | Suricata: Network Analysis                    | <a href="https://github.com/thefirstqubit/labs/tree/main/suricata">Labs</a>|
 | Python Automation for Access Control          | <a href="https://github.com/thefirstqubit/labs/tree/main/python">Labs</a>|
 | SQL                                           | <a href="https://google.com">Labs</a>|
