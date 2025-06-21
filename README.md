@@ -14,7 +14,7 @@ Hobbies and Passions? Apartment DJ sets on Youtube, Stanley Kubrick movies, poke
 | Project                                       | Tools/Skills       |
 |-----------------------------------------------|----------------------------|
 |<a href="https://github.com/thefirstqubit/Projects/blob/main/macOS%20compromise%3A%20trojan%20r57-2%20%26%20root%20apt/README.md"> Compromised macOS: Trojan R57-2 & Root APT </a> | Linux CLI, clamav, IOC detection & analysis, threat remediation, AI prompting                                       |
-| <a href="https://github.com/thefirstqubit/Projects/blob/main/PwC_securityassessment_ITcontrol/README.md">PWC Cybersecurity Risk Analysis and ITGC Implementation</a> | Risk Analysis, AAA Framework, IT General Controls, NIST 800-64, Sarbanes Oxley |
+| <a href="https://github.com/thefirstqubit/Projects/blob/main/PwC_riskassessment_ITcontrol/README.md">PwC Cybersecurity Risk Analysis and ITGC Implementation</a> | Risk Analysis, AAA Framework, IT General Controls, NIST 800-64, Sarbanes Oxley |
 
 
 
