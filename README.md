@@ -19,7 +19,7 @@ Hobbies and Passions? Rare brain-melting DJ sets, Stanley Kubrick movies, poker,
 |<a href="https://github.com/thefirstqubit/Projects/blob/main/PwC_riskassessment_ITcontrol/README.md">PwC: Cybersecurity Risk Analysis and ITGC Implementation</a> | Risk Analysis, AAA Framework, IT General Controls, NIST 800-64, Sarbanes Oxley |
 |<a href="https://github.com/thefirstqubit/Projects/tree/main/AIG%20Bruteforce%20Simulation">AIG: Ransomware Bruteforce Simulation </a> | Python, Bruteforce, Decryption, Threat Analysis & Remediation|
 |<a href="https://github.com/thefirstqubit/Projects/blob/main/Tata%20Group%3A%20IAM%20Solution%20Design/README.md">Tata Group: IAM Solution Design Plan </a> | IAM Design, Solution Implementation |
-|<a href="https://github.com/thefirstqubit/Projects/blob/main/Tata%20Group%3A%20IAM%20Solution%20Design/README.md"> Create a Google VPC Network </a> | Google Cloud Console, Cloud Shell CLI, VPC Subnets, VPC Firewall Rules |
+|<a href="https://github.com/thefirstqubit/Projects/tree/main/Custom%20Google%20VPC%20Network"> Create a Google VPC Network </a> | Google Cloud Console, Cloud Shell CLI, VPC Subnets, VPC Firewall Rules |
 
 
 ## Skills
