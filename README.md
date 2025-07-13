@@ -8,6 +8,7 @@ Hobbies and Passions? Rare brain-melting DJ sets, Stanley Kubrick movies, poker,
 
 ## Certifications
 <a href="https://www.credly.com/badges/e39d5a3e-7a19-4261-9ad8-e6dace60e89e/public_url">Google Cybersecurity Professional Certification</a>
+
 <a href="https://coursera.org/share/0d988b7f6dee2c766abc24070f262ea1">Nvidia Introduction to Networking</a>
 
 ## Projects
