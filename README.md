@@ -17,7 +17,7 @@ Hobbies and Passions? Rare brain-melting DJ sets, Stanley Kubrick movies, poker,
 
 | Project                                       | Tools/Skills       |
 |-----------------------------------------------|----------------------------|
-|<a href="https://github.com/thefirstqubit/Projects/blob/main/macOS%20compromise%3A%20trojan%20r57-2%20%26%20root%20apt/README.md"> Compromised macOS: Trojan R57-2 & Root APT </a> | Linux CLI, clamav, IOC Detection & Analysis, Threat Remediation, AI prompting                                       |
+|<a href="https://github.com/thefirstqubit/Projects/tree/main/macOS%20recovery%26remediation%3A%20trojan%20r57-2%20%26%20root%20apt"> macOS Remediation & Recovery: Trojan R57-2 & Root APT </a> | Linux CLI, clamav, IOC Detection & Analysis, Threat Remediation, AI prompting                                       |
 |<a href="https://github.com/thefirstqubit/Projects/blob/main/PwC_riskassessment_ITcontrol/README.md">PwC: Cybersecurity Risk Analysis and ITGC Implementation</a> | Risk Analysis, AAA Framework, IT General Controls, NIST 800-64, Sarbanes Oxley |
 |<a href="https://github.com/thefirstqubit/Projects/tree/main/AIG%20Bruteforce%20Simulation">AIG: Ransomware Bruteforce Simulation </a> | Python, Bruteforce, Decryption, Threat Analysis & Remediation|
 |<a href="https://github.com/thefirstqubit/Projects/blob/main/Tata%20Group%3A%20IAM%20Solution%20Design/README.md">Tata Group: IAM Solution Design Plan </a> | IAM Design, Solution Implementation |
