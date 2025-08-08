@@ -2,7 +2,7 @@
 
 I'm an aspiring information security / cloud security / cybersecurity professional in the midst of pivoting career paths after 11 years of accumulated experience in marketing and F&B throughout US and APAC markets.
 
-Searching for internships and entry-level positions. I'm interested in Information and Network Security . Currently on track to obtain CompTia Security+ by Aug 2025.
+Searching for internships and entry-level positions. I'm interested in Information and Network Security . Currently on track to obtain CompTia Security+ by Sep 2025.
 
 Hobbies and Passions? Rare brain-melting DJ sets, Stanley Kubrick movies, poker, learning and having deep conversations about tech, long distance running.  
 
